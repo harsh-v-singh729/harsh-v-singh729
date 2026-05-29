@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Harsh Vardhan Singh
 
-<!--
-**harsh-v-singh729/harsh-v-singh729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Computer Science Student
+- Interested in Data Analytics
+- Learning SQL, Python and Machine Learning
+- Practicing DSA using C++
 
-Here are some ideas to get you started:
+## Skills
+- C++
+- Python
+- SQL
+- Git & GitHub
+- DBMS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goals
+- Build Data Analytics Projects
+- Improve Problem Solving
+- Learn Industry-Level Tools
+
+## Projects
+
+- Banking System (C++)
+- DBMS Project
+- AI/ML Project
+- Data Analytics Project
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/Harsh-Vardhan-Singh
