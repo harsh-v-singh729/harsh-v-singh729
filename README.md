@@ -18,12 +18,6 @@
 - Improve Problem Solving
 - Learn Industry-Level Tools
 
-## Projects
-
-- Banking System (C++)
-- DBMS Project
-- AI/ML Project
-- Data Analytics Project
 
 ## Connect
 
